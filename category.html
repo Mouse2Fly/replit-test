@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fiction - BookWise</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="navbar">
+        <div class="nav-container">
+            <div class="nav-left">
+                <div class="logo">
+                    <i class="fas fa-book"></i>
+                    <span>BookWise</span>
+                </div>
+            </div>
+            <div class="nav-center">
+                <div class="search-bar">
+                    <input type="text" placeholder="Search for books...">
+                    <button class="search-btn">
+                        <i class="fas fa-search"></i> Search
+                    </button>
+                </div>
+            </div>
+            <div class="nav-right">
+                <a href="#" class="nav-link">
+                    <i class="fas fa-th"></i> Categories
+                </a>
+                <a href="#" class="nav-link">
+                    <i class="fas fa-shopping-cart"></i>
+                </a>
+                <a href="#" class="sign-in-btn">
+                    <i class="fas fa-user"></i> Sign In
+                </a>
+            </div>
+        </div>
+    </header>
+
+    <div class="breadcrumb">
+        <div class="container">
+            <a href="index.html"><i class="fas fa-home"></i> Home</a>
+            <span class="separator">›</span>
+            <a href="category.html">Fiction</a>
+            <span class="separator">›</span>
+            <span>The Silent Observer</span>
+        </div>
+    </div>
+
+    <div class="category-page">
+        <div class="container">
+            <div class="category-header">
+                <h1>Fiction</h1>
+                <p>Explore worlds of imagination, from timeless classics to modern masterpieces. Find your next great adventure here.</p>
+            </div>
+
+            <div class="category-toolbar">
+                <div class="filter-buttons">
+                    <button class="filter-btn">
+                        <i class="fas fa-sort"></i> Sort by
+                    </button>
+                    <button class="filter-btn">
+                        <i class="fas fa-tag"></i> Genre
+                    </button>
+                    <button class="filter-btn">
+                        <i class="fas fa-dollar-sign"></i> Price Range
+                    </button>
+                </div>
+                <button class="clear-filters">
+                    <i class="fas fa-times-circle"></i> Clear Filters
+                </button>
+            </div>
+
+            <div class="loading-placeholder">
+                <div class="loading-text">Loading books...</div>
+            </div>
+        </div>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <a href="#">About Us</a>
+                    <a href="#">Contact</a>
+                    <a href="#">Privacy Policy</a>
+                    <a href="#">Terms of Service</a>
+                    <a href="#">Help Center</a>
+                </div>
+                <div class="footer-right">
+                    <div class="social-icons">
+                        <a href="#"><i class="fab fa-facebook"></i></a>
+                        <a href="#"><i class="fab fa-twitter"></i></a>
+                        <a href="#"><i class="fab fa-instagram"></i></a>
+                        <a href="#"><i class="fab fa-linkedin"></i></a>
+                    </div>
+                    <div class="footer-text">
+                        <p>&copy; 2024 BookWise. All rights reserved.</p>
+                        <p class="tagline">Discover your next great read with us.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
