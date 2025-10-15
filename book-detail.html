@@ -43,15 +43,15 @@
         <div class="container">
             <a href="index.html"><i class="fas fa-home"></i> Home</a>
             <span class="separator">›</span>
-            <a href="category.html">Fiction</a>
+            <a href="category.html" id="breadcrumb-category">Fiction</a>
             <span class="separator">›</span>
-            <span>The Silent Observer</span>
+            <span id="breadcrumb-title">Loading...</span>
         </div>
     </div>
 
     <div class="book-detail-page">
         <div class="container">
-            <a href="category.html" class="back-link">
+            <a href="javascript:history.back()" class="back-link">
                 <i class="fas fa-arrow-left"></i> Back
             </a>
 
@@ -63,25 +63,19 @@
                 </div>
 
                 <div class="book-info">
-                    <h1>The Silent Observer</h1>
-                    <p class="author">by Jane Doe</p>
+                    <h1 id="book-title">Loading...</h1>
+                    <p class="author" id="book-author">by ...</p>
                     
                     <div class="rating">
-                        <div class="stars">
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star"></i>
-                            <i class="fas fa-star-half-alt"></i>
-                        </div>
-                        <span class="rating-text">4.5 (1,283 reviews)</span>
+                        <div class="stars" id="book-stars"></div>
+                        <span class="rating-text" id="book-rating-text">0 (0 reviews)</span>
                     </div>
 
-                    <div class="price">$14.99</div>
+                    <div class="price" id="book-price">$0.00</div>
 
-                    <div class="stock-status">
+                    <div class="stock-status" id="book-stock">
                         <i class="fas fa-check-circle"></i>
-                        <span>In Stock & Ready to Ship</span>
+                        <span>Checking availability...</span>
                     </div>
 
                     <button class="add-to-cart-btn">
@@ -97,7 +91,7 @@
                         <i class="fas fa-plus toggle-icon"></i>
                     </div>
                     <div class="section-content" id="synopsis">
-                        <p>In the heart of a city that never sleeps, a story unfolds in the quiet corners of forgotten libraries and rain-slicked streets. "The Silent Observer" follows a reclusive archivist who stumbles upon a series of coded messages hidden within ancient manuscripts. As he delves deeper, he uncovers a century-old conspiracy that threatens to unravel the very fabric of his reality. With time running out and shadowy figures closing in, he must decide whether to expose the truth or let the secrets of the past remain buried forever. This gripping tale is a testament to the power of knowledge and the courage it takes to speak when silence is the easier path.</p>
+                        <p id="book-description">Loading book description...</p>
                     </div>
                 </div>
             </div>

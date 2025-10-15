@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "The Dragon's Legacy",
+    "author": "Emma Blackwood",
+    "category": "Fantasy",
+    "price": 16.99,
+    "rating": 4.7,
+    "reviews": 892,
+    "stock": true,
+    "description": "In a world where dragons are thought extinct, a young scholar discovers a hidden egg that could change everything."
+  },
+  {
+    "id": 2,
+    "title": "Shadows of the Enchanted Forest",
+    "author": "Marcus Vale",
+    "category": "Fantasy",
+    "price": 14.99,
+    "rating": 4.5,
+    "reviews": 1247,
+    "stock": true,
+    "description": "A dark fantasy tale of magic, betrayal, and the thin line between good and evil in an ancient forest."
+  },
+  {
+    "id": 3,
+    "title": "Crown of Starlight",
+    "author": "Isabella Moonshadow",
+    "category": "Fantasy",
+    "price": 18.99,
+    "rating": 4.8,
+    "reviews": 2156,
+    "stock": true,
+    "description": "An epic quest for a legendary crown that holds the power to unite the warring kingdoms of Eldoria."
+  },
+  {
+    "id": 4,
+    "title": "The Wizard's Apprentice",
+    "author": "Thomas Spellwright",
+    "category": "Fantasy",
+    "price": 12.99,
+    "rating": 4.3,
+    "reviews": 654,
+    "stock": false,
+    "description": "A young apprentice must complete his master's final spell to save the realm from an ancient curse."
+  },
+  {
+    "id": 5,
+    "title": "The Silent Observer",
+    "author": "Jane Doe",
+    "category": "Fiction",
+    "price": 14.99,
+    "rating": 4.5,
+    "reviews": 1283,
+    "stock": true,
+    "description": "In the heart of a city that never sleeps, a story unfolds in the quiet corners of forgotten libraries and rain-slicked streets."
+  },
+  {
+    "id": 6,
+    "title": "Echoes of Yesterday",
+    "author": "Robert Chen",
+    "category": "Fiction",
+    "price": 13.99,
+    "rating": 4.2,
+    "reviews": 876,
+    "stock": true,
+    "description": "A powerful story about memory, loss, and the enduring connections that bind us across time."
+  },
+  {
+    "id": 7,
+    "title": "The Last Summer",
+    "author": "Sarah Mitchell",
+    "category": "Fiction",
+    "price": 15.99,
+    "rating": 4.6,
+    "reviews": 1542,
+    "stock": true,
+    "description": "Three friends reunite after twenty years to confront the secrets of one unforgettable summer."
+  },
+  {
+    "id": 8,
+    "title": "Quantum Horizons",
+    "author": "Dr. Michael Zhang",
+    "category": "Science",
+    "price": 24.99,
+    "rating": 4.4,
+    "reviews": 432,
+    "stock": true,
+    "description": "An exploration of quantum mechanics and its implications for the future of technology and humanity."
+  },
+  {
+    "id": 9,
+    "title": "The Gene Revolution",
+    "author": "Dr. Patricia Johnson",
+    "category": "Science",
+    "price": 29.99,
+    "rating": 4.7,
+    "reviews": 689,
+    "stock": true,
+    "description": "A comprehensive look at CRISPR technology and the ethical questions surrounding genetic engineering."
+  },
+  {
+    "id": 10,
+    "title": "Cosmos and Beyond",
+    "author": "Dr. Neil Richardson",
+    "category": "Science",
+    "price": 22.99,
+    "rating": 4.9,
+    "reviews": 1876,
+    "stock": true,
+    "description": "Journey through the universe and discover the latest findings in astrophysics and cosmology."
+  },
+  {
+    "id": 11,
+    "title": "Hearts in Bloom",
+    "author": "Rachel Summers",
+    "category": "Romance",
+    "price": 11.99,
+    "rating": 4.3,
+    "reviews": 2341,
+    "stock": true,
+    "description": "A heartwarming tale of second chances and finding love in the most unexpected places."
+  },
+  {
+    "id": 12,
+    "title": "Sunset in Paris",
+    "author": "Amélie Dubois",
+    "category": "Romance",
+    "price": 13.99,
+    "rating": 4.6,
+    "reviews": 1987,
+    "stock": true,
+    "description": "A chance encounter on the streets of Paris leads to a whirlwind romance that defies all odds."
+  },
+  {
+    "id": 13,
+    "title": "The Love Letter",
+    "author": "Victoria Lancaster",
+    "category": "Romance",
+    "price": 10.99,
+    "rating": 4.1,
+    "reviews": 1234,
+    "stock": false,
+    "description": "An old love letter discovered in an antique shop leads to a journey of rediscovering lost love."
+  },
+  {
+    "id": 14,
+    "title": "The Midnight Caller",
+    "author": "Detective James Harper",
+    "category": "Mystery",
+    "price": 15.99,
+    "rating": 4.8,
+    "reviews": 3421,
+    "stock": true,
+    "description": "A series of mysterious phone calls at midnight leads a detective into a web of conspiracy and danger."
+  },
+  {
+    "id": 15,
+    "title": "Vanished Without a Trace",
+    "author": "Linda Morrison",
+    "category": "Mystery",
+    "price": 14.99,
+    "rating": 4.5,
+    "reviews": 2145,
+    "stock": true,
+    "description": "When a small-town mayor disappears, a journalist uncovers secrets that some would kill to keep hidden."
+  },
+  {
+    "id": 16,
+    "title": "The Cipher",
+    "author": "Alexander Cross",
+    "category": "Mystery",
+    "price": 16.99,
+    "rating": 4.7,
+    "reviews": 1876,
+    "stock": true,
+    "description": "A cryptographer must decode an ancient cipher to prevent a catastrophic event."
+  },
+  {
+    "id": 17,
+    "title": "Dead Man's Secret",
+    "author": "Catherine Stone",
+    "category": "Mystery",
+    "price": 13.99,
+    "rating": 4.4,
+    "reviews": 1542,
+    "stock": true,
+    "description": "A lawyer inherits a mysterious case from a deceased colleague that puts her life in danger."
+  },
+  {
+    "id": 18,
+    "title": "The Roman Empire: Rise and Fall",
+    "author": "Professor David Williams",
+    "category": "History",
+    "price": 27.99,
+    "rating": 4.6,
+    "reviews": 987,
+    "stock": true,
+    "description": "A comprehensive chronicle of the Roman Empire from its foundation to its dramatic collapse."
+  },
+  {
+    "id": 19,
+    "title": "Medieval Queens of Power",
+    "author": "Dr. Eleanor Wright",
+    "category": "History",
+    "price": 25.99,
+    "rating": 4.8,
+    "reviews": 743,
+    "stock": true,
+    "description": "The untold stories of powerful medieval queens who shaped the course of European history."
+  },
+  {
+    "id": 20,
+    "title": "The Industrial Revolution",
+    "author": "Professor Henry Thompson",
+    "category": "History",
+    "price": 23.99,
+    "rating": 4.5,
+    "reviews": 654,
+    "stock": false,
+    "description": "An in-depth analysis of how the Industrial Revolution transformed society, economy, and daily life."
+  }
+]
